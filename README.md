@@ -4,7 +4,7 @@ Repositorio para la tarea: Proyecto Lunar
 ###Creación
 >Se han creado dos paginas _HTML_ con sus respectivos _CSS_, donde podemos encontrar una pagina de inicio y otra con la aplicación.
 
-* Para la pagina de inicio donde se prensenta el juego, esta compuesta por una imagen del espacio como fondo, sobre ella hay dos títulos y dos imágenes más, la de la nave y otra de **_PLAY_** , la cual esta enlazada a la aplicación. 
+* Para la pagina de inicio donde se presenta el juego, esta compuesta por una imagen del espacio como fondo, sobre ella hay dos títulos y dos imágenes más, la de la nave y otra de **_PLAY_** , la cual esta enlazada a la aplicación. 
 * En la pagina de la aplicación, esta la misma imagen de fondo, y aquí ya encontramos:
   * Una caja arriba a la izquierda, donde se localizaran datos relevantes sobre la nave como:
     * velocidad.
