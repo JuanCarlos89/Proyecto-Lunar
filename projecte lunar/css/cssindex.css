@@ -1,0 +1,22 @@
+body {		background:url("../img/cielo.jpg");
+			background-size: cover;
+			background-attachment: fixed;
+			}
+
+		
+p{			font-family: arial;
+			font-size:35px;
+			color:white;
+			text-align:center;
+			}
+			
+h3{			font-family:arial;
+			color:white;
+			text-align:center;}
+			
+.nave {		margin-left: 45%;
+			width:100px;
+			}
+
+.boton{		margin-left: 40%;
+			}
